@@ -1,0 +1,45 @@
+.fila_contenido{
+	/*visibility: hidden;*/
+}
+
+.columna{
+	padding: 20px;
+	text-align: center;
+	margin: 5px;
+	/*background-color: Aquamarine;*/
+	border-style: solid;
+	border-radius: 10px;
+	border-color: Chartreuse;
+}
+
+/*
+                $('.columna').click(function() {
+                    let id=$(this)[0].id;
+                    let lista_poemas = $('<ol></ol>')
+
+                    $.ajax({
+
+                        url:"datosXML/frases.xml",
+                        success : function(respuesta) {
+                            $(respuesta).find('frases').each(function () {
+                                $(this).find('frase').each(function () {
+
+                                    var id_autor=$(this).find('id_autor').text();
+                                    var frase=$(this).find('texto').text();
+
+                                    if(id==id_autor) {
+                                        let elemento_lista=$('<li></li>');
+                                        elemento_lista.append(frase);
+                                        lista_poemas.append(elemento_lista);
+                                    }
+                                }
+                            }
+
+                            $(this).after(lista_poemas);
+
+                        }
+                    })
+
+                })
+
+*/

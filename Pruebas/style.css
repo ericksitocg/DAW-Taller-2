@@ -1,0 +1,25 @@
+/*
+p{
+  color: green;
+  text-align: center;
+  
+}
+
+
+label:hover {
+	background: yellow;      
+}
+
+label {
+  margin: 55px;
+
+}
+*/
+
+.row div{
+	padding: 20px;
+}
+
+.row div:hover{
+	background-color: yellow;
+}

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escritores>
+  <escritor>
+    <id>42</id>
+    <nombre>Miguel de Cervantes.</nombre>
+  </escritor>
+  <escritor>
+    <id>157</id>
+    <nombre>Mark Twain.</nombre>
+  </escritor>
+  <escritor>
+    <id>86</id>
+    <nombre>Goethe.</nombre>
+  </escritor>
+  <escritor>
+    <id>21</id>
+    <nombre>Baltasar Gracián.</nombre>
+  </escritor>
+  <escritor>
+    <id>149</id>
+    <nombre>Victor Hugo.</nombre>
+  </escritor>
+  <escritor>
+    <id>20</id>
+    <nombre>José Ortega y Gasset.</nombre>
+  </escritor>
+  <escritor>
+    <id>142</id>
+    <nombre>Friedrich Nietzsche.</nombre>
+  </escritor>
+  <escritor>
+    <id>11</id>
+    <nombre>Francisco de Quevedo.</nombre>
+  </escritor>
+  <escritor>
+    <id>13</id>
+    <nombre>William Shakespeare.</nombre>
+  </escritor>
+  <escritor>
+    <id>14</id>
+    <nombre>Voltaire.</nombre>
+  </escritor>
+  <escritor>
+    <id>16</id>
+    <nombre>Dante Alighieri.</nombre>
+  </escritor>
+  <escritor>
+    <id>19</id>
+    <nombre>Gustavo Adolfo Bécquer.</nombre>
+  </escritor>
+  <escritor>
+    <id>44</id>
+    <nombre>Cicerón.</nombre>
+  </escritor>
+  <escritor>
+    <id>24</id>
+    <nombre>Mario Benedetti.</nombre>
+  </escritor>
+  <escritor>
+    <id>26</id>
+    <nombre>Jorge Bucay.</nombre>
+  </escritor>
+  <escritor>
+    <id>28</id>
+    <nombre>Richard Bach.</nombre>
+  </escritor>
+  <escritor>
+    <id>30</id>
+    <nombre>Pedro Calderón de la Barca.</nombre>
+  </escritor>
+  <escritor>
+    <id>139</id>
+    <nombre>Albert Camus.</nombre>
+  </escritor>
+  <escritor>
+    <id>34</id>
+    <nombre>Truman Capote.</nombre>
+  </escritor>
+  <escritor>
+    <id>36</id>
+    <nombre>Dale Carnegie.</nombre>
+  </escritor>
+  <escritor>
+    <id>38</id>
+    <nombre>Lewis Carroll.</nombre>
+  </escritor>
+  <escritor>
+    <id>40</id>
+    <nombre>Camilo José Cela.</nombre>
+  </escritor>
+  <escritor>
+  <id>43</id>
+  <nombre>Noam Chomsky.</nombre>
+  </escritor>
+  <escritor>
+  <id>45</id>
+  <nombre>René Descartes.</nombre>
+  </escritor>
+  <escritor>
+  <id>151</id>
+  <nombre>Charles Dickens.</nombre>
+  </escritor>
+  <escritor>
+  <id>47</id>
+  <nombre>Fiodor Dostoievski.</nombre>
+  </escritor>
+  <escritor>
+  <id>48</id>
+  <nombre>Wayne W. Dyer.</nombre>
+  </escritor>
+  <escritor>
+  <id>49</id>
+  <nombre>Umberto Eco.</nombre>
+  </escritor>
+  <escritor>
+  <id>50</id>
+  <nombre>Emerson.</nombre>
+  </escritor>
+  <escritor>
+  <id>174</id>
+  <nombre>Gustave Flaubert.</nombre>
+  </escritor>
+  <escritor>
+  <id>52</id>
+  <nombre>Anatole France.</nombre>
+  </escritor>
+  <escritor>
+  <id>53</id>
+  <nombre>Viktor Frankl.</nombre>
+  </escritor>
+  <escritor>
+  <id>54</id>
+  <nombre>Sigmund Freud.</nombre>
+  </escritor>
+  <escritor>
+  <id>55</id>
+  <nombre>Eduardo Galeano.</nombre>
+  </escritor>
+  <escritor>
+  <id>56</id>
+  <nombre>Gabriel García Márquez.</nombre>
+  </escritor>
+  <escritor>
+  <id>57</id>
+  <nombre>Friedrich Hegel.</nombre>
+  </escritor>
+  <escritor>
+  <id>58</id>
+  <nombre>Aldous Huxley.</nombre>
+  </escritor>
+  <escritor>
+  <id>59</id>
+  <nombre>John Irving.</nombre>
+  </escritor>
+  <escritor>
+  <id>60</id>
+  <nombre>Franz Kafka.</nombre>
+  </escritor>
+  <escritor>
+  <id>61</id>
+  <nombre>Antonio Machado.</nombre>
+  </escritor>
+  <escritor>
+  <id>62</id>
+  <nombre>Marco Aurelio.</nombre>
+  </escritor>
+  <escritor>
+  <id>63</id>
+  <nombre>Karl Marx.</nombre>
+  </escritor>
+  <escritor>
+  <id>64</id>
+  <nombre>George Orwell.</nombre>
+  </escritor>
+  <escritor>
+  <id>112</id>
+  <nombre>Henry David Thoreau.</nombre>
+  </escritor>
+  <escritor>
+  <id>66</id>
+  <nombre>J. R. R. Tolkien.</nombre>
+  </escritor>
+  <escritor>
+  <id>67</id>
+  <nombre>Leon Tolstoi.</nombre>
+  </escritor>
+  <escritor>
+  <id>68</id>
+  <nombre>Miguel de Unamuno.</nombre>
+  </escritor>
+  <escritor>
+  <id>106</id>
+  <nombre>Mario Vargas Llosa.</nombre>
+  </escritor>
+  <escritor>
+  <id>70</id>
+  <nombre>Lope de Vega.</nombre>
+  </escritor>
+  <escritor>
+  <id>160</id>
+  <nombre>Oscar Wilde.</nombre>
+  </escritor>
+  <escritor>
+  <id>72</id>
+  <nombre>María Zambrano.</nombre>
+  </escritor>
+  <escritor>
+  <id>73</id>
+  <nombre>Arturo Pérez Reverte.</nombre>
+  </escritor>
+  <escritor>
+  <id>74</id>
+  <nombre>Platón.</nombre>
+  </escritor>
+  <escritor>
+  <id>75</id>
+  <nombre>Karl Popper.</nombre>
+  </escritor>
+  <escritor>
+  <id>76</id>
+  <nombre>Alexander Pope.</nombre>
+  </escritor>
+  <escritor>
+  <id>77</id>
+  <nombre>Mario Puzo.</nombre>
+  </escritor>
+  <escritor>
+  <id>78</id>
+  <nombre>Fernando de Rojas.</nombre>
+  </escritor>
+  <escritor>
+  <id>79</id>
+  <nombre>Jean Jacques Rousseau.</nombre>
+  </escritor>
+  <escritor>
+  <id>80</id>
+  <nombre>Marqués de Sade.</nombre>
+  </escritor>
+  <escritor>
+  <id>81</id>
+  <nombre>Antoine de Saint</nombre>
+  </escritor>
+  <escritor>
+  <id>82</id>
+  <nombre>José Luis Sampedro.</nombre>
+  </escritor>
+  <escritor>
+  <id>83</id>
+  <nombre>Santa Teresa de Jesús.</nombre>
+  </escritor>
+  <escritor>
+  <id>84</id>
+  <nombre>Fernando Savater.</nombre>
+  </escritor>
+  <escritor>
+  <id>85</id>
+  <nombre>Jean Paul Sartre.</nombre>
+  </escritor>
+  <escritor>
+  <id>105</id>
+  <nombre>Federico García Lorca.</nombre>
+  </escritor>
+  <escritor>
+  <id>88</id>
+  <nombre>Carlos Ruiz Zafón.</nombre>
+  </escritor>
+  <escritor>
+  <id>90</id>
+  <nombre>Alejandro Dumas.</nombre>
+  </escritor>
+  <escritor>
+  <id>91</id>
+  <nombre>Eduardo Mendoza.</nombre>
+  </escritor>
+  <escritor>
+  <id>92</id>
+  <nombre>Ana Frank.</nombre>
+  </escritor>
+  <escritor>
+  <id>121</id>
+  <nombre>Isaac Asimov.</nombre>
+  </escritor>
+  <escritor>
+  <id>134</id>
+  <nombre>Robert L. Stevenson.</nombre>
+  </escritor>
+  <escritor>
+  <id>96</id>
+  <nombre>Azorín.</nombre>
+  </escritor>
+  <escritor>
+  <id>97</id>
+  <nombre>Cesare Pavese.</nombre>
+  </escritor>
+  <escritor>
+  <id>99</id>
+  <nombre>Julio Cortázar</nombre>
+  </escritor>
+  <escritor>
+  <id>147</id>
+  <nombre>Fyodor Dostoyevsky.</nombre>
+  </escritor>
+  <escritor>
+  <id>102</id>
+  <nombre>Fyodor Dostoyevsky</nombre>
+  </escritor>
+  <escritor>
+  <id>152</id>
+  <nombre>Ernest Hemingway.</nombre>
+  </escritor>
+  <escritor>
+  <id>109</id>
+  <nombre>Somerset Maugham.</nombre>
+  </escritor>
+  <escritor>
+  <id>110</id>
+  <nombre>Herman Melville.</nombre>
+  </escritor>
+  <escritor>
+  <id>111</id>
+  <nombre>C. J. Cherryh.</nombre>
+  </escritor>
+  <escritor>
+  <id>164</id>
+  <nombre>Ray Bradbury.</nombre>
+  </escritor>
+  <escritor>
+  <id>114</id>
+  <nombre>Willa Cather.</nombre>
+  </escritor>
+  <escritor>
+  <id>115</id>
+  <nombre>Ayn Rand.</nombre>
+  </escritor>
+  <escritor>
+  <id>116</id>
+  <nombre>Joseph Conrad.</nombre>
+  </escritor>
+  <escritor>
+  <id>117</id>
+  <nombre>Philip K. Dick.</nombre>
+  </escritor>
+  <escritor>
+  <id>118</id>
+  <nombre>E. L. Doctorow.</nombre>
+  </escritor>
+  <escritor>
+  <id>122</id>
+  <nombre>William Faulkner.</nombre>
+  </escritor>
+  <escritor>
+  <id>120</id>
+  <nombre>Robert Graves.</nombre>
+  </escritor>
+  <escritor>
+  <id>123</id>
+  <nombre>Henry Miller.</nombre>
+  </escritor>
+  <escritor>
+  <id>124</id>
+  <nombre>Ursula K. Le Guin.</nombre>
+  </escritor>
+  <escritor>
+  <id>125</id>
+  <nombre>Nancy Kress.</nombre>
+  </escritor>
+  <escritor>
+  <id>126</id>
+  <nombre>Henry Wadsworth Longfellow.</nombre>
+  </escritor>
+  <escritor>
+  <id>127</id>
+  <nombre>Elmore Leonard.</nombre>
+  </escritor>
+  <escritor>
+  <id>128</id>
+  <nombre>Madeleine L’Engle.</nombre>
+  </escritor>
+  <escritor>
+  <id>129</id>
+  <nombre>Anais Nin.</nombre>
+  </escritor>
+  <escritor>
+  <id>170</id>
+  <nombre>Stephen King.</nombre>
+  </escritor>
+  <escritor>
+  <id>131</id>
+  <nombre>Toni Morrison.</nombre>
+  </escritor>
+  <escritor>
+  <id>132</id>
+  <nombre>Saul Bellow.</nombre>
+  </escritor>
+  <escritor>
+  <id>135</id>
+  <nombre>C. S. Lewis.</nombre>
+  </escritor>
+  <escritor>
+  <id>136</id>
+  <nombre>Margaret Atwood.</nombre>
+  </escritor>
+  <escritor>
+  <id>137</id>
+  <nombre>Virginia Woolf.</nombre>
+  </escritor>
+  <escritor>
+  <id>138</id>
+  <nombre>Charles Baudelaire.</nombre>
+  </escritor>
+  <escritor>
+  <id>140</id>
+  <nombre>John Steinbeck.</nombre>
+  </escritor>
+  <escritor>
+  <id>143</id>
+  <nombre>Natalie Goldberg.</nombre>
+  </escritor>
+  <escritor>
+  <id>144</id>
+  <nombre>Ralph Waldo Emerson.</nombre>
+  </escritor>
+  <escritor>
+  <id>145</id>
+  <nombre>Napoleón Hill.</nombre>
+  </escritor>
+  <escritor>
+  <id>146</id>
+  <nombre>Maya Angelou.</nombre>
+  </escritor>
+  <escritor>
+  <id>148</id>
+  <nombre>Emily Dickinson.</nombre>
+  </escritor>
+  <escritor>
+  <id>150</id>
+  <nombre>William Wordsworth.</nombre>
+  </escritor>
+  <escritor>
+  <id>153</id>
+  <nombre>George R. R. Martin.</nombre>
+  </escritor>
+  <escritor>
+  <id>154</id>
+  <nombre>J. K. Rowling.</nombre>
+  </escritor>
+  <escritor>
+  <id>155</id>
+  <nombre>Jack London.</nombre>
+  </escritor>
+  <escritor>
+  <id>156</id>
+  <nombre>Khaled Hosseini.</nombre>
+  </escritor>
+  <escritor>
+  <id>161</id>
+  <nombre>Thomas Mann.</nombre>
+  </escritor>
+  <escritor>
+  <id>162</id>
+  <nombre>E. B. White.</nombre>
+  </escritor>
+  <escritor>
+  <id>163</id>
+  <nombre>Jorge Luis Borges.</nombre>
+  </escritor>
+  <escritor>
+  <id>165</id>
+  <nombre>Cornelia Funke.</nombre>
+  </escritor>
+  <escritor>
+  <id>166</id>
+  <nombre>Muriel Rukeyser.</nombre>
+  </escritor>
+  <escritor>
+  <id>167</id>
+  <nombre>Lisa See.</nombre>
+  </escritor>
+  <escritor>
+  <id>169</id>
+  <nombre>Tom Bissell.</nombre>
+  </escritor>
+  <escritor>
+  <id>171</id>
+  <nombre>Natsuki Takaya.</nombre>
+  </escritor>
+  <escritor>
+  <id>172</id>
+  <nombre>William Saroyan.</nombre>
+  </escritor>
+  <escritor>
+  <id>173</id>
+  <nombre>Epictetus.</nombre>
+  </escritor>
+  <escritor>
+  <id>175</id>
+  <nombre>Friedrich Nietzche.</nombre>
+  </escritor>
+  <escritor>
+  <id>176</id>
+  <nombre>Stephen Chbosky.</nombre>
+  </escritor>
+  <escritor>
+  <id>177</id>
+  <nombre>Bil Keane.</nombre>
+  </escritor>
+</escritores>
